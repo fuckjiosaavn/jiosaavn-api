@@ -1,1 +1,1 @@
-npm i -g nodemon && npm i && nodemon ./src/server.ts
+npm i nodemon && npm i && node node_modules/nodemon/bin/nodemon.js ./src/server.ts
