@@ -1,1 +1,1 @@
-npm install && npm start
+npm i -g nodemon && npm i && nodemon ./src/server.ts
